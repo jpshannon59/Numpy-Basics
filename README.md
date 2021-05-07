@@ -1,5 +1,6 @@
 # Numpy-Basics
 Examples of how to use numpy.
+
 Q1. Lets consider your data is like the below cell:
 data = {"name": ["Joseph", "Jacob", "Sam", "Jesee", "Ryan", "Lisa", "Lee"],
         "job": ["teacher", "psychologist", "data scientist", "software developer", "psychologist", "psychologist", "teacher"],
